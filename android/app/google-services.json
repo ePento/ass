@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413817509461",
+    "project_id": "ashry-81eaa",
+    "storage_bucket": "ashry-81eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413817509461:android:754285a0bb153731c926dc",
+        "android_client_info": {
+          "package_name": "com.ashryup.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwis_ZfNlAyihALYEfkERn_8hsZWVdYXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
